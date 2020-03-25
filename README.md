@@ -1,2 +1,2 @@
 # SaveThePeople-project
-Projeto criado visando o estudo e aprendizagem das ferramentas : React.js, React Native
+Projeto criado visando o estudo e aprendizagem das ferramentas : Node.js, React.js
